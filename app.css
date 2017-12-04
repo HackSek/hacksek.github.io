@@ -1,0 +1,67 @@
+html, body {
+    font-family: "Open Sans", sans-serif;
+    height: 100%;
+    background-color: honeydew;
+}
+
+
+img {
+    max-width: 100%;
+
+}
+
+figure {
+    
+    margin: auto;
+
+}
+
+
+
+h1, h6 {
+    color: #ccc;
+    text-align: center;
+}
+
+.content article{
+
+    padding: 100px 0;
+    max-width: 640px;
+    margin: 0 auto;
+    text-align: center;
+
+
+}
+
+
+
+.header {
+    position: relative;
+    height: 100vh;
+    background-image: url(images/shutterstock-programming-1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+
+.fore-ground {
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    
+}
+
+.fore-ground h1 {
+    color: white;
+}
+
+nav {background-color:#ccc !important;}
+
+a {
+    color: #ccc;
+}
+
+
